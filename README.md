@@ -1,0 +1,5 @@
+Une Étude sur la Récupération d’Information Multimédia : Techniques, Défis et Applications
+
+La Recherche d’Information Multimédia (RIM) est un domaine en pleine expansion qui applique les techniques de recherche d’information (RI) aux contenus multimédias tels que les images, les vidéos et l’audio. Grâce aux récentes avancées en vision par ordinateur, en traitement du signal et en apprentissage profond, la RIM a connu des progrès majeurs dans l’extraction, l’analyse et l’indexation de ces données complexes et hétérogènes.
+Cet article présente les composants et l’architecture d’un système de RIM pour les trois types de médias : vidéo, audio et texte. Nous explorons à la fois les méthodes traditionnelles et celles basées sur l’apprentissage profond utilisées pour la récupération d’information dans ces différents types de contenu.
+De plus, nous discutons des nouveaux types de médias émergents et de leurs impacts sur la recherche multimédia. Enfin, nous abordons les principales techniques d’évaluation employées pour mesurer l’efficacité des systèmes de RIM.
